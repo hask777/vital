@@ -1,0 +1,12 @@
+.form-table, .form-table td, .form-table td p, .form-table th{
+    font-size: 14px;
+}
+
+.form-table, .form-table td
+input[type=color], input[type=date], input[type=datetime-local], input[type=datetime], input[type=email], input[type=month], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], input[type=week], select, textarea, .wp-picker-container{
+    display: block;
+}
+
+.form-table th {
+    font-size: 22px;
+}
